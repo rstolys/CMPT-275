@@ -52,6 +52,8 @@ public class computeCharge implements ActionListener
         {
         //Create the gui
         buildGUI();
+        
+        //Testing changes to see edits in git
         }
 
     
