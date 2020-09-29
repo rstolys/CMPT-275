@@ -54,11 +54,7 @@ public class computeCharge implements ActionListener
         buildGUI();
         
         //
-<<<<<<< HEAD
-        //Modify the file 
-=======
-        //Testing branches
->>>>>>> refs/remotes/origin/master
+        //Modify the file
         }
 
     
