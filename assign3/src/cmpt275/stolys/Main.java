@@ -47,6 +47,10 @@ class UIelements extends JPanel implements ActionListener
     //
     // Class Variables
     //
+    //
+    // All variables are private since there is no need for them
+    // to be accessed outside the current class
+    //
     private final int frameWidth;
     private final int frameHeight;
     
@@ -65,10 +69,10 @@ class UIelements extends JPanel implements ActionListener
     
     
     //Labels
-    JLabel shapeSelectedTitle;
-    JLabel shapeSelectedTitle2;
-    JLabel param1;
-    JLabel param2;
+    private JLabel shapeSelectedTitle;
+    private JLabel shapeSelectedTitle2;
+    private JLabel param1;
+    private JLabel param2;
     
     
     //Input Fields

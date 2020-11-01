@@ -5,6 +5,10 @@ public class rectangle implements Shape
     //
     // Class Variables
     //
+    //
+    // All variables are private since all variables are accessed
+    // only through getters and setters.
+    //
     private String name;
     
     private String name_p1;
